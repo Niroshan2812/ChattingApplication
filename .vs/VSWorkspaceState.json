@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\data",
+    "\\assets\\images",
+    "\\src",
+    "\\src\\component",
+    "\\src\\component\\Chatlist",
+    "\\src\\screens"
+  ],
+  "SelectedNode": "\\src\\screens\\ChatScreens.js",
+  "PreviewInSolutionExplorer": false
+}
