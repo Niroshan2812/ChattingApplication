@@ -3,7 +3,7 @@
     "id": "1",
     "user": {
       "id": "u2",
-      "name": "Lukas",
+      "name": "user111",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/lukas.jpeg"
     },
     "lastMessage": {
@@ -16,7 +16,7 @@
     "id": "2",
     "user": {
       "id": "u3",
-      "name": "Daniil Top",
+      "name": "niroshan",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg"
     },
     "lastMessage": {
@@ -29,7 +29,7 @@
     "id": "3",
     "user": {
       "id": "u4",
-      "name": "Alex",
+      "name": "user1",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/8.png"
     },
     "lastMessage": {
@@ -42,7 +42,7 @@
     "id": "4",
     "user": {
       "id": "u5",
-      "name": "Vlad",
+      "name": "user1",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg"
     },
     "lastMessage": {
@@ -55,7 +55,7 @@
     "id": "5",
     "user": {
       "id": "u6",
-      "name": "Elon Musk",
+      "name": "user1 Musk",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png"
     },
     "lastMessage": {

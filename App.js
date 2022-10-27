@@ -1,13 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import ChartScreens from './src/screens/ChatScreens';
-
+import ChartScreen from './src/screens/ChatScreen';
 
 export default function App() {
   return (
     <View style={styles.container}>
 
-      <ChartScreens/>
+      <ChartScreen/>
 
 
       <StatusBar style="auto" />
@@ -24,3 +24,4 @@ const styles = StyleSheet.create({
   },
 });
 
+// Stop time is  ---- 1.16

@@ -18,7 +18,7 @@ const ChartListItem = ({chat}) => {
 
         </View>
          
-    
+    );
   
 };
 const styles = StyleSheet.create({
@@ -52,5 +52,5 @@ const styles = StyleSheet.create({
         color:'gray',
     }
 
-})
+});
 export default ChartListItem;
